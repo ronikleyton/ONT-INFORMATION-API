@@ -9,6 +9,8 @@ O sistema tem como função retornar as principais informações das ONTs online
 
 * [TypeScript](https://www.typescriptlang.org/)
 * [VS Code](https://code.visualstudio.com/) 
+* [TELNET](https://telnet.com/) 
+* 
 
 ## Rotas
 
